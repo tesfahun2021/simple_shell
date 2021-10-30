@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strcat - concatenates two string in a path form
  * @first: the first given destination
