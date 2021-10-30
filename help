@@ -43,5 +43,9 @@ A star (*) next to a name means that the command is disabled.
  function name { COMMANDS ; } or name () { COMMANDS ; }                              variables - Names and meanings of some shell variables
  getopts optstring name [arg]                                                        wait [-n] [id ...]
  hash [-lr] [-p pathname] [-dt] [name ...]                                           while COMMANDS; do COMMANDS; done
+<<<<<<< HEAD
  help [-dms] [pattern ...]                                                           { COMMANDS ; }
 
+=======
+ help [-dms] [pattern ...]                                                           { COMMANDS ; }
+>>>>>>> 93863217289609668b3a16562a62ef3dbd27ab4c

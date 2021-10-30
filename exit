@@ -1,4 +1,9 @@
 exit: exit [n]
     Exit the shell.
     
+<<<<<<< HEAD
     Exits the shell with a status of N. If N is omitted, the exit status is that of the last command executed.
+=======
+    Exits the shell with a status of N.  If N is omitted, the exit status
+    is that of the last command executed.
+>>>>>>> 93863217289609668b3a16562a62ef3dbd27ab4c
