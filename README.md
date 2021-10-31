@@ -1,8 +1,8 @@
-##SIMPLE SHELL
+# SIMPLE SHELL
 
 Built as a project for ALX School.
 
-#Overview
+## Overview
 
 In this project, we implemented a command line interpreter or, as it is more commonly known, a shell.
 
